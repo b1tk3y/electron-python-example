@@ -1,0 +1,5 @@
+PyInstaller==3.6
+zerorpc==0.6.3
+
+# for windows only
+# pypiwin32
