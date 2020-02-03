@@ -1,3 +1,6 @@
+바로 설치해서 패키징까지 해보고 싶으면 TLDR.md 참고
+- 이대로 하면 electron 실행할 때, 패키징할 때 에러 발생함
+
 # Electron as GUI of Python Applications (Updated)
 
 ## tl;dr
